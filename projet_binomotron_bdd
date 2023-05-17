@@ -10,7 +10,7 @@ db=mysqlpy.connect(
     port='3307',
     user='root',
     passwd='example',
-    database='binomotron_save',
+    database='binomotron_morgan',
 )
 
 #selection de la colone "nom" de la table "eleve"
